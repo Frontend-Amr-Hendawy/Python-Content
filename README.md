@@ -4,7 +4,7 @@
 
 - [x] Introduction and What Is Python ?
 - [x] What I Need ?
-- [x] Syntax And Your First App
+- [ ] Syntax And Your First App
 - [ ] Comments
 - [ ] Dealing With Data In Python
 - [ ] Some Data Types Overview
