@@ -2,8 +2,8 @@
 
 ### Introduction
 
-- [✔] Introduction and What Is Python ?
-- [✔] What I Need ?
+-[] Introduction and What Is Python ?
+-[] What I Need ?
 - [ ] Syntax And Your First App
 - [ ] Comments
 - [ ] Dealing With Data In Python
