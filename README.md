@@ -4,7 +4,7 @@
 
 - [x] Introduction and What Is Python ?
 - [x] What I Need ?
-- [&#9745;] Syntax And Your First App
+- &#9745; Syntax And Your First App
 - [ ] Comments
 - [ ] Dealing With Data In Python
 - [ ] Some Data Types Overview
