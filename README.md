@@ -4,10 +4,10 @@
 
 - [x] Introduction and What Is Python ?
 - [x] What I Need ?
-- [ ] Syntax And Your First App
-- [ ] Comments
-- [ ] Dealing With Data In Python
-- [ ] Some Data Types Overview
+- [x] Syntax And Your First App
+- [x] Comments
+- [x] Dealing With Data In Python
+- [x] Some Data Types Overview
 - [ ] Variables Part One
 - [ ] Variables Part Two
 - [ ] Escape Sequences Characters
