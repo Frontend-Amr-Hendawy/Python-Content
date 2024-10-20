@@ -8,16 +8,16 @@
 - [x] Comments
 - [x] Dealing With Data In Python
 - [x] Some Data Types Overview
-- [ ] Variables Part One
-- [ ] Variables Part Two
-- [ ] Escape Sequences Characters
-- [ ] Concatenation And Trainings
+- [x] Variables Part One
+- [x] Variables Part Two
+- [x] Escape Sequences Characters
+- [x] Concatenation And Trainings
 
 
 ### Strings
 
-- [ ] Strings
-- [ ] Strings – Indexing and Slicing
+- [x] Strings
+- [x] Strings – Indexing and Slicing
 - [ ] Strings Methods Part 1
 - [ ] Strings Methods Part 2
 - [ ] Strings Methods Part 3
