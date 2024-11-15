@@ -20,8 +20,8 @@
 - [x] Strings – Indexing and Slicing
 - [x] Strings Methods Part 1
 - [x] Strings Methods Part 2
-- [ ] Strings Methods Part 3
-- [ ] Strings Methods Part 4
+- [x] Strings Methods Part 3
+- [x] Strings Methods Part 4
 - [ ] Strings Formatting Old Way
 - [ ] Strings Formatting New Way
 
