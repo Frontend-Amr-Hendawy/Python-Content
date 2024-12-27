@@ -22,18 +22,18 @@
 - [x] Strings Methods Part 2
 - [x] Strings Methods Part 3
 - [x] Strings Methods Part 4
-- [ ] Strings Formatting Old Way
-- [ ] Strings Formatting New Way
+- [x] Strings Formatting Old Way
+- [x] Strings Formatting New Way
 
 
 ### Numbers, List, Tubles
 
-- [ ] Numbers
-- [ ] Arithmetic Operators
-- [ ] Lists
-- [ ] Lists Methods Part 1
-- [ ] Lists Methods Part 2
-- [ ] Tuples Methods Part 1
+- [x] Numbers
+- [x] Arithmetic Operators
+- [x] Lists
+- [x] Lists Methods Part 1
+- [x] Lists Methods Part 2
+- [x] Tuples Methods Part 1
 - [ ] Tuples Methods Part 2
 
 
